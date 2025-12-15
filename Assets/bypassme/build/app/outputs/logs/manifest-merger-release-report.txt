@@ -1,0 +1,441 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:2:5-33:19
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-17:19
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-17:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/fc01b443a32b62e0c871f974d56e804c/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/fc01b443a32b62e0c871f974d56e804c/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/blackkader/.gradle/caches/8.14/transforms/aa5e0e358ba419545e37d53f4a4b8831/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/blackkader/.gradle/caches/8.14/transforms/aa5e0e358ba419545e37d53f4a4b8831/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/df273792364e947516efc073187ee66b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/df273792364e947516efc073187ee66b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:17:5-20
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:17:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.1.1] /home/blackkader/.gradle/caches/8.14/transforms/ff8b023517d16742a1a2490336fe022d/transformed/rootbeer-lib-0.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.1.1] /home/blackkader/.gradle/caches/8.14/transforms/ff8b023517d16742a1a2490336fe022d/transformed/rootbeer-lib-0.1.1/AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:zygotePreloadName
+		ADDED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:18-92
+	android:label
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:3:9-33
+	android:icon
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:5:9-43
+	android:name
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:4:9-42
+manifest
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:freerasp] /home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-19:12
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/fc01b443a32b62e0c871f974d56e804c/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/blackkader/.gradle/caches/8.14/transforms/aa5e0e358ba419545e37d53f4a4b8831/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/blackkader/.gradle/caches/8.14/transforms/7b2b46d10070fcac833f61f12cc75605/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/blackkader/.gradle/caches/8.14/transforms/9def3e0da55dd12af1465f9dbe556df2/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.7.1] /home/blackkader/.gradle/caches/8.14/transforms/87648718d86812957c860112ac4c4be3/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/2dbc15a47e560df8c991bc0ec3956720/transformed/window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity:1.8.1] /home/blackkader/.gradle/caches/8.14/transforms/25f98c0905de3178e388df03f4ca4242/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/33de82ab0591adb3d75f205a122fd9fe/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/7a148907fb8d46cf78c31127f24168b5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/33cb26210f15f592fb32d1d95971ceb0/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/d2e535cb1a2c24ae456b108d18c9a074/transformed/lifecycle-service-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/3725a3c2aa4e83a6d559ae805dcbb9cc/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/3b665bfa974f37fb9c2799aea5d32c86/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/dffb567fb7759a1fced6ca8d3b6cca2e/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/cb061bbd7021ec7479c35002c15101b9/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/dcc33d201e0f49db64d639b025bcb4e8/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/2d6194c1a225eeb051ca1ab4dfe04099/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/909432c2efe322964410ba193e0c6413/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c7c4addc201ee4119a81078c073ca07b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/6de3731403050dc4fd2a3beadbf68421/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/b11dff822d4f8a37e28c24ad8b104745/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/16fef4adcaced3b12ab5a42d09bf908c/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/blackkader/.gradle/caches/8.14/transforms/9bfc6c3dfcdb6820d391d3cc6f7b1aeb/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/08fb580803fa59366ee4308de9834bce/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/38d3782745ef5f2c7938504421585a7d/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/8a41595aa117d0c7f7caca9e60d98424/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/df273792364e947516efc073187ee66b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/a35e61f1217e08c2e5d9b59f68ed9afb/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/19ff7d40dec27856e6f1ebd03a8d6516/transformed/core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/45e570bbfc73d35f08ff14ef6a9f1851/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/blackkader/.gradle/caches/8.14/transforms/b813237dc7bfc7369d65da1aaf7d0250/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.scottyab:rootbeer-lib:0.1.1] /home/blackkader/.gradle/caches/8.14/transforms/ff8b023517d16742a1a2490336fe022d/transformed/rootbeer-lib-0.1.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/blackkader/.gradle/caches/8.14/transforms/92c0d00ca2579e0f8c4e1ef87ac164d2/transformed/relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:39:5-44:15
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:10:5-16:15
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:10:5-16:15
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:11:5-15:15
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:11:5-15:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:42:19-48
+activity#io.securinets.bypassme.MainActivity
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:6:9-27:20
+	android:launchMode
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:8:13-36
+	android:configChanges
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:taskAffinity
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:20:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:30:9-32:33
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-10:33
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-10:33
+	android:value
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:31:13-44
+uses-sdk
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+MERGED from [:freerasp] /home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:freerasp] /home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/fc01b443a32b62e0c871f974d56e804c/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/fc01b443a32b62e0c871f974d56e804c/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/blackkader/.gradle/caches/8.14/transforms/aa5e0e358ba419545e37d53f4a4b8831/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/blackkader/.gradle/caches/8.14/transforms/aa5e0e358ba419545e37d53f4a4b8831/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/blackkader/.gradle/caches/8.14/transforms/7b2b46d10070fcac833f61f12cc75605/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/blackkader/.gradle/caches/8.14/transforms/7b2b46d10070fcac833f61f12cc75605/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/blackkader/.gradle/caches/8.14/transforms/9def3e0da55dd12af1465f9dbe556df2/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/blackkader/.gradle/caches/8.14/transforms/9def3e0da55dd12af1465f9dbe556df2/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /home/blackkader/.gradle/caches/8.14/transforms/87648718d86812957c860112ac4c4be3/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /home/blackkader/.gradle/caches/8.14/transforms/87648718d86812957c860112ac4c4be3/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/2dbc15a47e560df8c991bc0ec3956720/transformed/window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/2dbc15a47e560df8c991bc0ec3956720/transformed/window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity:1.8.1] /home/blackkader/.gradle/caches/8.14/transforms/25f98c0905de3178e388df03f4ca4242/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /home/blackkader/.gradle/caches/8.14/transforms/25f98c0905de3178e388df03f4ca4242/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/33de82ab0591adb3d75f205a122fd9fe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/33de82ab0591adb3d75f205a122fd9fe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/7a148907fb8d46cf78c31127f24168b5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/7a148907fb8d46cf78c31127f24168b5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/33cb26210f15f592fb32d1d95971ceb0/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/33cb26210f15f592fb32d1d95971ceb0/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/d2e535cb1a2c24ae456b108d18c9a074/transformed/lifecycle-service-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/d2e535cb1a2c24ae456b108d18c9a074/transformed/lifecycle-service-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/3725a3c2aa4e83a6d559ae805dcbb9cc/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/3725a3c2aa4e83a6d559ae805dcbb9cc/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/3b665bfa974f37fb9c2799aea5d32c86/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/3b665bfa974f37fb9c2799aea5d32c86/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/dffb567fb7759a1fced6ca8d3b6cca2e/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/dffb567fb7759a1fced6ca8d3b6cca2e/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/cb061bbd7021ec7479c35002c15101b9/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/cb061bbd7021ec7479c35002c15101b9/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/dcc33d201e0f49db64d639b025bcb4e8/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/dcc33d201e0f49db64d639b025bcb4e8/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/2d6194c1a225eeb051ca1ab4dfe04099/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/2d6194c1a225eeb051ca1ab4dfe04099/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/909432c2efe322964410ba193e0c6413/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/909432c2efe322964410ba193e0c6413/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c7c4addc201ee4119a81078c073ca07b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c7c4addc201ee4119a81078c073ca07b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/6de3731403050dc4fd2a3beadbf68421/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/6de3731403050dc4fd2a3beadbf68421/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/b11dff822d4f8a37e28c24ad8b104745/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/b11dff822d4f8a37e28c24ad8b104745/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/16fef4adcaced3b12ab5a42d09bf908c/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/16fef4adcaced3b12ab5a42d09bf908c/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/blackkader/.gradle/caches/8.14/transforms/9bfc6c3dfcdb6820d391d3cc6f7b1aeb/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/blackkader/.gradle/caches/8.14/transforms/9bfc6c3dfcdb6820d391d3cc6f7b1aeb/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/08fb580803fa59366ee4308de9834bce/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/08fb580803fa59366ee4308de9834bce/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/38d3782745ef5f2c7938504421585a7d/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/38d3782745ef5f2c7938504421585a7d/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/8a41595aa117d0c7f7caca9e60d98424/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/8a41595aa117d0c7f7caca9e60d98424/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/df273792364e947516efc073187ee66b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/df273792364e947516efc073187ee66b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/a35e61f1217e08c2e5d9b59f68ed9afb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/a35e61f1217e08c2e5d9b59f68ed9afb/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/19ff7d40dec27856e6f1ebd03a8d6516/transformed/core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/19ff7d40dec27856e6f1ebd03a8d6516/transformed/core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/45e570bbfc73d35f08ff14ef6a9f1851/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/blackkader/.gradle/caches/8.14/transforms/45e570bbfc73d35f08ff14ef6a9f1851/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:5:5-7:40
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:5:5-7:40
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/blackkader/.gradle/caches/8.14/transforms/b813237dc7bfc7369d65da1aaf7d0250/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/blackkader/.gradle/caches/8.14/transforms/b813237dc7bfc7369d65da1aaf7d0250/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.scottyab:rootbeer-lib:0.1.1] /home/blackkader/.gradle/caches/8.14/transforms/ff8b023517d16742a1a2490336fe022d/transformed/rootbeer-lib-0.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.scottyab:rootbeer-lib:0.1.1] /home/blackkader/.gradle/caches/8.14/transforms/ff8b023517d16742a1a2490336fe022d/transformed/rootbeer-lib-0.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/blackkader/.gradle/caches/8.14/transforms/92c0d00ca2579e0f8c4e1ef87ac164d2/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/blackkader/.gradle/caches/8.14/transforms/92c0d00ca2579e0f8c4e1ef87ac164d2/transformed/relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-67
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:7:5-67
+MERGED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:7:5-67
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:10:5-67
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:22-64
+service#com.emrys.rjsniffer.rjsniffer.Sniffer
+ADDED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:9-16:43
+	android:useAppZygote
+		ADDED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-40
+	android:exported
+		ADDED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:13-37
+	android:isolatedProcess
+		ADDED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:13-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:8:5-79
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:11:5-79
+MERGED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:8:22-76
+package#com.huawei.hwid
+ADDED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:11:9-51
+	android:name
+		ADDED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:11:18-48
+intent#action:name:android.intent.action.MAIN
+ADDED from [com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:13:9-15:18
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:8:5-72
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:7:5-74
+MERGED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:9:22-95
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/blackkader/.gradle/caches/8.14/transforms/78e967aac18550647db75a6d962da20a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#io.securinets.bypassme.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#io.securinets.bypassme.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:15:22-78

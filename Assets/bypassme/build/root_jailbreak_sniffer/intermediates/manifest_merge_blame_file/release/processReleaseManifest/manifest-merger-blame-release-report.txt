@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.emrys.rjsniffer.rjsniffer" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <application android:zygotePreloadName="com.emrys.rjsniffer.rjsniffer.AppZygotePreload" >
+7-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:3:5-16:19
+7-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:4:9-83
+8        <meta-data
+8-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:6:9-8:33
+9            android:name="flutterEmbedding"
+9-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:7:13-44
+10            android:value="2" />
+10-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:8:13-30
+11
+12        <service
+12-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:11:9-15:43
+13            android:name="com.emrys.rjsniffer.rjsniffer.Sniffer"
+13-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:12:13-36
+14            android:exported="false"
+14-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:13:13-37
+15            android:isolatedProcess="true"
+15-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:14:13-43
+16            android:useAppZygote="true" />
+16-->/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/src/main/AndroidManifest.xml:15:13-40
+17    </application>
+18
+19</manifest>

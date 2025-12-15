@@ -1,0 +1,15 @@
+keytool -genkeypair \
+  -alias bypasskey \
+  -keyalg RSA \
+  -keysize 4096 \
+  -validity 10000 \
+  -keystore bypasskey \
+  -storetype PKCS12 \
+  -storepass bypass123 \
+  -keypass bypass123 \
+  -dname "CN=test, OU=test, O=test, L=test, ST=test, C=8000"
+
+
+verify with : 
+
+ keytool -list -v -keystore bypasskey -alias bypasskey -storepass bypass123

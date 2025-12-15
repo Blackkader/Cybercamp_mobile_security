@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.emrys.rjsniffer.rjsniffer" >
+
+    <uses-sdk android:minSdkVersion="21" />
+
+    <application android:zygotePreloadName="com.emrys.rjsniffer.rjsniffer.AppZygotePreload" >
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+
+        <service
+            android:name="com.emrys.rjsniffer.rjsniffer.Sniffer"
+            android:exported="false"
+            android:isolatedProcess="true"
+            android:useAppZygote="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/home/blackkader/.pub-cache/hosted/pub.dev/freerasp-7.3.0/android"
+    name=":freerasp"
+    type="LIBRARY"
+    maven="com.aheaditec.freerasp:freerasp:1.0-SNAPSHOT"
+    agpVersion="8.13.1"
+    buildFolder="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp"
+    bootClassPath="/home/blackkader/Android/Sdk/platforms/android-35/android.jar:/home/blackkader/Android/Sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

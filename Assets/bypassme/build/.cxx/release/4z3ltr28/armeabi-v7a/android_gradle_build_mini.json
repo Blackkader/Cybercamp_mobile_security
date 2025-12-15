@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/opt/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/blackkader/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/blackkader/All/CyberCamp/Assets/bypassme/build/.cxx/release/4z3ltr28/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/blackkader/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/blackkader/All/CyberCamp/Assets/bypassme/build/.cxx/release/4z3ltr28/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

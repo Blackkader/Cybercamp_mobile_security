@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/jailbreak_root_detection-1.2.0+1" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/freerasp-7.3.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/home/blackkader/.pub-cache/hosted/pub.dev/jailbreak_root_detection-1.2.0+1/android"
+    name=":jailbreak_root_detection"
+    type="LIBRARY"
+    maven="com.w3conext.jailbreak_root_detection:jailbreak_root_detection:unspecified"
+    agpVersion="8.13.1"
+    buildFolder="/home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection"
+    bootClassPath="/home/blackkader/Android/Sdk/platforms/android-34/android.jar:/home/blackkader/Android/Sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

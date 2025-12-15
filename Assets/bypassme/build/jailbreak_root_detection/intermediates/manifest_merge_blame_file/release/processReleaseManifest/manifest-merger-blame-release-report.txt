@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.w3conext.jailbreak_root_detection" >
+5
+6    <uses-sdk android:minSdkVersion="21" />
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->/home/blackkader/.pub-cache/hosted/pub.dev/jailbreak_root_detection-1.2.0+1/android/src/main/AndroidManifest.xml:5:5-67
+8-->/home/blackkader/.pub-cache/hosted/pub.dev/jailbreak_root_detection-1.2.0+1/android/src/main/AndroidManifest.xml:5:22-64
+9
+10</manifest>

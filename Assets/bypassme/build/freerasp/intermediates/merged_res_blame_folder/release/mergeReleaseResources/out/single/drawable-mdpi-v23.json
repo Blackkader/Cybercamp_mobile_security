@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.aheaditec.freerasp-release-35:/drawable-mdpi-v23/fingerprint_dialog_error.png",
+        "source": "com.aheaditec.freerasp-biometric-1.1.0-18:/drawable-mdpi-v23/fingerprint_dialog_error.png"
+    }
+]

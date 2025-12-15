@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.securinets.bypassme.app-mergeReleaseResources-33:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/home/blackkader/.gradle/caches/8.14/transforms/9def3e0da55dd12af1465f9dbe556df2/transformed/appcompat-1.6.1/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    }
+                }
+            ]
+        }
+    ]
+}

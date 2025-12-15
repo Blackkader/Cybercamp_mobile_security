@@ -1,0 +1,406 @@
+attr:panelMenuListTheme:2130968781 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:divider:2130968690 reachable from Field int[] androidx.appcompat.R$styleable.LinearLayoutCompat
+string:common_google_play_services_update_button:2131623981 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_update_button
+attr:listChoiceBackgroundIndicator:2130968749 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionButtonStyle:2130968587 reachable from res/layout/abc_search_view.xml
+drawable:abc_btn_check_material_anim:2131230724 reachable from Field int androidx.appcompat.R$drawable.abc_btn_check_material_anim
+attr:imageButtonStyle:2130968740 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_star_half_black_48dp:2131230784 reachable from Field int androidx.appcompat.R$drawable.abc_star_half_black_48dp
+dimen:abc_star_small:2131165245 reachable from Field int androidx.appcompat.R$dimen.abc_star_small
+attr:drawableTint:2130968700 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:actionModeShareDrawable:2130968602 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:btn_radio_on_to_off_mtrl_animation:2131230806 reachable from res/drawable/abc_btn_radio_material_anim.xml
+attr:ratingBarStyleIndicator:2130968796 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:closeIcon:2130968659 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:actionMenuTextColor:2130968591 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+string:abc_searchview_description_search:2131623957 reachable from res/layout/abc_search_view.xml
+dimen:tooltip_y_offset_non_touch:2131165303 reachable from Field int androidx.appcompat.R$dimen.tooltip_y_offset_non_touch
+attr:dialogPreferredPadding:2130968687 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:queryHint:2130968792 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:actionModeCloseButtonStyle:2130968593 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionBarDivider:2130968576 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:listPreferredItemHeight:2130968757 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_ic_commit_search_api_mtrl_alpha:2131230744 reachable from Field int androidx.appcompat.R$drawable.abc_ic_commit_search_api_mtrl_alpha
+attr:buttonBarNegativeButtonStyle:2130968639 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:edit_query:2131296344 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+id:search_mag_icon:2131296402 reachable from res/layout/abc_search_view.xml
+attr:buttonStyle:2130968648 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_radio_to_on_mtrl_ring_outer_path_animation:2130771991 reachable from res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+dimen:abc_edit_text_inset_top_material:2131165230 reachable from res/drawable-v21/abc_edit_text_material.xml
+attr:checkedTextViewStyle:2130968656 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:search_plate:2131296403 reachable from res/layout/abc_search_view.xml
+attr:windowActionModeOverlay:2130968884 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+string:common_google_play_services_enable_title:2131623973 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_enable_title
+attr:actionOverflowMenuStyle:2130968608 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:drawableTintMode:2130968701 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:panelMenuListWidth:2130968782 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:tag_window_insets_animation_callback:2131296433 reachable from Field int androidx.core.R$id.tag_window_insets_animation_callback
+attr:fontWeight:2130968727 reachable from Field int[] androidx.core.R$styleable.FontFamilyFont
+attr:listPreferredItemPaddingLeft:2130968761 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:btn_radio_on_mtrl:2131230805 reachable from res/drawable/abc_btn_radio_material_anim.xml
+dimen:abc_edit_text_inset_bottom_material:2131165228 reachable from res/drawable-v21/abc_edit_text_material.xml
+drawable:abc_seekbar_thumb_material:2131230778 reachable from Field int androidx.appcompat.R$drawable.abc_seekbar_thumb_material
+attr:colorAccent:2130968664 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:alertDialogCenterButtons:2130968615 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_dialog_material_background:2131230739 reachable from Field int androidx.appcompat.R$drawable.abc_dialog_material_background
+attr:actionModeSplitBackground:2130968603 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+color:abc_tint_btn_checkable:2131099667 reachable from Field int androidx.appcompat.R$color.abc_tint_btn_checkable
+drawable:btn_checkbox_unchecked_to_checked_mtrl_animation:2131230802 reachable from res/drawable/abc_btn_check_material_anim.xml
+anim:btn_radio_to_on_mtrl_dot_group_animation:2130771989 reachable from res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+drawable:abc_scrubber_primary_mtrl_alpha:2131230776 reachable from res/drawable/abc_seekbar_track_material.xml
+drawable:abc_btn_radio_material_anim:2131230730 reachable from Field int androidx.appcompat.R$drawable.abc_btn_radio_material_anim
+attr:ratingBarStyleSmall:2130968797 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+style:NormalTheme:2131689634 reachable from AndroidManifest.xml
+dimen:abc_search_view_preferred_width:2131165239 reachable from Field int androidx.appcompat.R$dimen.abc_search_view_preferred_width
+attr:fontVariationSettings:2130968726 reachable from Field int[] androidx.appcompat.R$styleable.TextAppearance
+color:abc_tint_edittext:2131099669 reachable from Field int androidx.appcompat.R$color.abc_tint_edittext
+attr:selectableItemBackground:2130968805 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+style:LaunchTheme:2131689633 reachable from AndroidManifest.xml
+id:message:2131296373 reachable from res/layout/abc_tooltip.xml
+dimen:abc_search_view_preferred_height:2131165238 reachable from Field int androidx.appcompat.R$dimen.abc_search_view_preferred_height
+layout:abc_tooltip:2131492891 reachable from Field int androidx.appcompat.R$layout.abc_tooltip
+drawable:abc_btn_colored_material:2131230727 reachable from Field int androidx.appcompat.R$drawable.abc_btn_colored_material
+string:common_google_play_services_install_text:2131623975 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_install_text
+attr:textAllCaps:2130968839 reachable from Field int[] androidx.appcompat.R$styleable.TextAppearance
+attr:textAppearanceSmallPopupMenu:2130968847 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:textAppearanceLargePopupMenu:2130968840 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:search_voice_btn:2131296405 reachable from res/layout/abc_search_view.xml
+style:Base_Animation_AppCompat_Tooltip:2131689481 reachable from style:Animation_AppCompat_Tooltip:2131689476
+string:abc_searchview_description_clear:2131623955 reachable from res/layout/abc_search_view.xml
+dimen:abc_control_corner_material:2131165208 reachable from res/drawable/abc_btn_default_mtrl_shape.xml
+attr:drawableEndCompat:2130968695 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+anim:btn_radio_to_off_mtrl_ring_outer_path_animation:2130771988 reachable from res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+drawable:abc_btn_radio_to_on_mtrl_000:2131230731 reachable from res/drawable/abc_btn_radio_material.xml
+attr:actionModeStyle:2130968604 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionModeTheme:2130968605 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:search_src_text:2131296404 reachable from res/layout/abc_search_view.xml
+attr:listPreferredItemHeightLarge:2130968758 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:showDividers:2130968809 reachable from Field int[] androidx.appcompat.R$styleable.LinearLayoutCompat
+attr:goIcon:2130968729 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+id:tag_unhandled_key_listeners:2131296432 reachable from Field int androidx.core.R$id.tag_unhandled_key_listeners
+id:search_bar:2131296397 reachable from res/layout/abc_search_view.xml
+drawable:common_full_open_on_phone:2131230807 reachable from Field int com.google.android.gms.base.R$drawable.common_full_open_on_phone
+dimen:abc_button_inset_horizontal_material:2131165202 reachable from res/drawable/abc_btn_default_mtrl_shape.xml
+style:Base_TextAppearance_AppCompat:2131689484 reachable from style:TextAppearance_AppCompat:2131689662
+attr:listChoiceIndicatorMultipleAnimated:2130968750 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+color:abc_tint_default:2131099668 reachable from Field int androidx.appcompat.R$color.abc_tint_default
+drawable:abc_tab_indicator_material:2131230787 reachable from Field int androidx.appcompat.R$drawable.abc_tab_indicator_material
+attr:actionModeCloseContentDescription:2130968594 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:searchViewStyle:2130968801 reachable from Field int androidx.appcompat.R$attr.searchViewStyle
+anim:btn_checkbox_to_checked_box_inner_merged_animation:2130771980 reachable from res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+attr:measureWithLargestChild:2130968767 reachable from Field int[] androidx.appcompat.R$styleable.LinearLayoutCompat
+drawable:abc_btn_switch_to_on_mtrl_00012:2131230734 reachable from res/drawable/abc_switch_thumb_material.xml
+string:common_google_play_services_notification_ticker:2131623978 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_notification_ticker
+drawable:abc_text_select_handle_right_mtrl:2131230792 reachable from Field int androidx.appcompat.R$drawable.abc_text_select_handle_right_mtrl
+drawable:abc_list_divider_mtrl_alpha:2131230757 reachable from Field int androidx.appcompat.R$drawable.abc_list_divider_mtrl_alpha
+drawable:abc_spinner_mtrl_am_alpha:2131230781 reachable from Field int androidx.appcompat.R$drawable.abc_spinner_mtrl_am_alpha
+drawable:abc_ic_menu_paste_mtrl_am_alpha:2131230749 reachable from Field int androidx.appcompat.R$drawable.abc_ic_menu_paste_mtrl_am_alpha
+attr:textColorAlertDialogListItem:2130968848 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+animator:fragment_close_exit:2130837505 reachable from Field int androidx.fragment.R$animator.fragment_close_exit
+attr:buttonBarNeutralButtonStyle:2130968640 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:tag_on_apply_window_listener:2131296425 reachable from Field int androidx.core.R$id.tag_on_apply_window_listener
+drawable:abc_textfield_activated_mtrl_alpha:2131230793 reachable from Field int androidx.appcompat.R$drawable.abc_textfield_activated_mtrl_alpha
+drawable:btn_checkbox_unchecked_mtrl:2131230801 reachable from res/drawable/abc_btn_check_material_anim.xml
+dimen:tooltip_margin:2131165299 reachable from res/layout/abc_tooltip.xml
+drawable:abc_textfield_search_material:2131230797 reachable from Field int androidx.appcompat.R$drawable.abc_textfield_search_material
+drawable:abc_btn_radio_to_on_mtrl_015:2131230732 reachable from res/drawable/abc_btn_radio_material.xml
+attr:textAppearanceListItemSecondary:2130968842 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:activityChooserViewStyle:2130968612 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:viewInflaterClass:2130968880 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_text_select_handle_middle_mtrl:2131230791 reachable from Field int androidx.appcompat.R$drawable.abc_text_select_handle_middle_mtrl
+drawable:abc_switch_thumb_material:2131230785 reachable from Field int androidx.appcompat.R$drawable.abc_switch_thumb_material
+style:Animation_AppCompat_Tooltip:2131689476 reachable from Field int androidx.appcompat.R$style.Animation_AppCompat_Tooltip
+string:common_google_play_services_updating_text:2131623984 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_updating_text
+drawable:abc_textfield_search_default_mtrl_alpha:2131230796 reachable from Field int androidx.appcompat.R$drawable.abc_textfield_search_default_mtrl_alpha
+attr:editTextStyle:2130968708 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:listPreferredItemPaddingRight:2130968762 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+string:common_google_play_services_unsupported_text:2131623980 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_unsupported_text
+attr:switchStyle:2130968836 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+string:common_google_play_services_install_button:2131623974 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_install_button
+id:view_tree_on_back_pressed_dispatcher_owner:2131296450 reachable from Field int androidx.activity.R$id.view_tree_on_back_pressed_dispatcher_owner
+attr:colorControlNormal:2130968669 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_popup_background_mtrl_mult:2131230769 reachable from Field int androidx.appcompat.R$drawable.abc_popup_background_mtrl_mult
+attr:submitBackground:2130968828 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:editTextBackground:2130968706 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionBarTabBarStyle:2130968582 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:fragment_container_view_tag:2131296354 reachable from Field int androidx.fragment.R$id.fragment_container_view_tag
+attr:actionModePasteDrawable:2130968599 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+dimen:abc_progress_bar_height_material:2131165237 reachable from res/drawable/abc_seekbar_tick_mark_material.xml
+drawable:btn_radio_off_mtrl:2131230803 reachable from res/drawable/abc_btn_radio_material_anim.xml
+attr:searchIcon:2130968800 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:actionBarTabTextStyle:2130968584 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_ab_share_pack_mtrl_alpha:2131230720 reachable from Field int androidx.appcompat.R$drawable.abc_ab_share_pack_mtrl_alpha
+animator:fragment_close_enter:2130837504 reachable from Field int androidx.fragment.R$animator.fragment_close_enter
+attr:colorPrimaryDark:2130968672 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:toolbarNavigationButtonStyle:2130968871 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:visible_removing_fragment_view_tag:2131296453 reachable from Field int androidx.fragment.R$id.visible_removing_fragment_view_tag
+id:submit_area:2131296419 reachable from res/layout/abc_search_view.xml
+attr:spinnerStyle:2130968815 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_edit_text_material:2131230740 reachable from Field int androidx.appcompat.R$drawable.abc_edit_text_material
+attr:alertDialogButtonGroupStyle:2130968614 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+string:common_google_play_services_update_title:2131623983 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_update_title
+attr:textLocale:2130968850 reachable from Field int[] androidx.appcompat.R$styleable.TextAppearance
+id:search_button:2131296398 reachable from res/layout/abc_search_view.xml
+attr:windowFixedHeightMajor:2130968885 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionModeBackground:2130968592 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_checkbox_to_unchecked_check_path_merged_animation:2130771984 reachable from res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+attr:tooltipFrameBackground:2130968874 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:windowFixedWidthMinor:2130968888 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+array:assume_strong_biometrics_models:2130903040 reachable from Field int androidx.biometric.R$array.assume_strong_biometrics_models
+drawable:abc_ratingbar_indicator_material:2131230770 reachable from Field int androidx.appcompat.R$drawable.abc_ratingbar_indicator_material
+attr:panelBackground:2130968780 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_radio_to_on_mtrl_ring_outer_animation:2130771990 reachable from res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+attr:actionModeCutDrawable:2130968597 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionDropDownStyle:2130968588 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_ic_menu_copy_mtrl_am_alpha:2131230746 reachable from Field int androidx.appcompat.R$drawable.abc_ic_menu_copy_mtrl_am_alpha
+drawable:btn_checkbox_checked_mtrl:2131230799 reachable from res/drawable/abc_btn_check_material_anim.xml
+layout:abc_search_dropdown_item_icons_2line:2131492888 reachable from Field int androidx.appcompat.R$layout.abc_search_dropdown_item_icons_2line
+attr:windowNoTitle:2130968891 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:autoSizePresetSizes:2130968628 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+anim:abc_tooltip_enter:2130771978 reachable from style:Base_Animation_AppCompat_Tooltip:2131689481
+id:checked:2131296332 reachable from res/drawable/abc_btn_check_material_anim.xml
+attr:lastBaselineToBottomHeight:2130968746 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:font:2130968716 reachable from Field int[] androidx.core.R$styleable.FontFamilyFont
+string:common_google_play_services_update_text:2131623982 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_update_text
+attr:actionModeWebSearchDrawable:2130968606 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_text_select_handle_left_mtrl:2131230790 reachable from Field int androidx.appcompat.R$drawable.abc_text_select_handle_left_mtrl
+attr:colorControlHighlight:2130968668 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:search_go_btn:2131296401 reachable from res/layout/abc_search_view.xml
+attr:colorSwitchThumbNormal:2130968674 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+dimen:abc_edit_text_inset_horizontal_material:2131165229 reachable from res/drawable-v21/abc_edit_text_material.xml
+attr:selectableItemBackgroundBorderless:2130968806 reachable from res/layout/abc_search_view.xml
+id:accessibility_custom_action_1:2131296264 reachable from Field int androidx.core.R$id.accessibility_custom_action_1
+id:accessibility_custom_action_0:2131296263 reachable from Field int androidx.core.R$id.accessibility_custom_action_0
+id:accessibility_custom_action_5:2131296290 reachable from Field int androidx.core.R$id.accessibility_custom_action_5
+id:accessibility_custom_action_4:2131296289 reachable from Field int androidx.core.R$id.accessibility_custom_action_4
+style:RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1:2131689655 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+id:accessibility_custom_action_3:2131296286 reachable from Field int androidx.core.R$id.accessibility_custom_action_3
+style:RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2:2131689656 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+dimen:abc_button_padding_vertical_material:2131165205 reachable from res/drawable/abc_btn_default_mtrl_shape.xml
+id:accessibility_custom_action_2:2131296275 reachable from Field int androidx.core.R$id.accessibility_custom_action_2
+id:accessibility_custom_action_9:2131296294 reachable from Field int androidx.core.R$id.accessibility_custom_action_9
+id:accessibility_custom_action_8:2131296293 reachable from Field int androidx.core.R$id.accessibility_custom_action_8
+style:RtlOverlay_Widget_AppCompat_Search_DropDown:2131689654 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+id:accessibility_custom_action_7:2131296292 reachable from Field int androidx.core.R$id.accessibility_custom_action_7
+mipmap:ic_launcher:2131558400 reachable from AndroidManifest.xml
+id:accessibility_custom_action_6:2131296291 reachable from Field int androidx.core.R$id.accessibility_custom_action_6
+integer:google_play_services_version:2131361796 reachable from AndroidManifest.xml
+attr:windowMinWidthMajor:2130968889 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:buttonStyleSmall:2130968649 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+dimen:abc_button_inset_vertical_material:2131165203 reachable from res/drawable/abc_btn_default_mtrl_shape.xml
+integer:config_tooltipAnimTime:2131361795 reachable from res/anim/abc_tooltip_enter.xml
+drawable:abc_btn_default_mtrl_shape:2131230728 reachable from Field int androidx.appcompat.R$drawable.abc_btn_default_mtrl_shape
+attr:buttonBarPositiveButtonStyle:2130968641 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:layout:2130968747 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+dimen:abc_star_medium:2131165244 reachable from Field int androidx.appcompat.R$dimen.abc_star_medium
+drawable:abc_btn_check_material:2131230723 reachable from Field int androidx.appcompat.R$drawable.abc_btn_check_material
+attr:dividerVertical:2130968693 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:autoSizeMinTextSize:2130968627 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+dimen:abc_control_inset_material:2131165209 reachable from dimen:abc_button_inset_horizontal_material:2131165202
+dimen:abc_dropdownitem_text_padding_right:2131165227 reachable from res/layout/abc_search_view.xml
+color:abc_tint_seek_thumb:2131099670 reachable from Field int androidx.appcompat.R$color.abc_tint_seek_thumb
+attr:radioButtonStyle:2130968794 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:textAppearanceSearchResultSubtitle:2130968845 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+drawable:btn_radio_off_to_on_mtrl_animation:2131230804 reachable from res/drawable/abc_btn_radio_material_anim.xml
+attr:textAppearanceListItem:2130968841 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:unchecked:2131296445 reachable from res/drawable/abc_btn_check_material_anim.xml
+attr:tooltipForegroundColor:2130968873 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:textAppearanceListItemSmall:2130968843 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionModeCopyDrawable:2130968596 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_switch_track_mtrl_alpha:2131230786 reachable from Field int androidx.appcompat.R$drawable.abc_switch_track_mtrl_alpha
+string:abc_searchview_description_voice:2131623959 reachable from res/layout/abc_search_view.xml
+attr:borderlessButtonStyle:2130968637 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+animator:fragment_fade_exit:2130837507 reachable from Field int androidx.fragment.R$animator.fragment_fade_exit
+attr:dropdownListPreferredItemHeight:2130968705 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:autoSizeTextType:2130968630 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:fontProviderQuery:2130968723 reachable from Field int[] androidx.core.R$styleable.FontFamily
+attr:textAppearanceSearchResultTitle:2130968846 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+attr:actionBarSplitStyle:2130968580 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:ttcIndex:2130968879 reachable from Field int[] androidx.core.R$styleable.FontFamilyFont
+string:common_google_play_services_enable_button:2131623971 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_enable_button
+string:common_google_play_services_enable_text:2131623972 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_enable_text
+animator:fragment_open_exit:2130837509 reachable from Field int androidx.fragment.R$animator.fragment_open_exit
+attr:fontProviderFetchTimeout:2130968721 reachable from Field int[] androidx.core.R$styleable.FontFamily
+drawable:abc_tab_indicator_mtrl_alpha:2131230788 reachable from res/drawable/abc_tab_indicator_material.xml
+attr:commitIcon:2130968675 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+drawable:abc_scrubber_track_mtrl_alpha:2131230777 reachable from res/drawable/abc_seekbar_track_material.xml
+attr:voiceIcon:2130968881 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+drawable:abc_spinner_textfield_background_material:2131230782 reachable from Field int androidx.appcompat.R$drawable.abc_spinner_textfield_background_material
+drawable:abc_ic_menu_share_mtrl_alpha:2131230751 reachable from Field int androidx.appcompat.R$drawable.abc_ic_menu_share_mtrl_alpha
+attr:fontProviderSystemFontFamily:2130968724 reachable from Field int[] androidx.core.R$styleable.FontFamily
+attr:colorError:2130968670 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:listPopupWindowStyle:2130968756 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionBarTabStyle:2130968583 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:fontProviderPackage:2130968722 reachable from Field int[] androidx.core.R$styleable.FontFamily
+id:view_tree_lifecycle_owner:2131296449 reachable from Field int androidx.lifecycle.runtime.R$id.view_tree_lifecycle_owner
+attr:spinnerDropDownItemStyle:2130968814 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_checkbox_to_unchecked_icon_null_animation:2130771985 reachable from res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+attr:dividerPadding:2130968692 reachable from Field int[] androidx.appcompat.R$styleable.LinearLayoutCompat
+attr:listDividerAlertDialog:2130968752 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:textAppearancePopupMenuHeader:2130968844 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+interpolator:fast_out_slow_in:2131427334 reachable from res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+id:search_edit_frame:2131296400 reachable from res/layout/abc_search_view.xml
+id:accessibility_custom_action_18:2131296273 reachable from Field int androidx.core.R$id.accessibility_custom_action_18
+id:search_close_btn:2131296399 reachable from res/layout/abc_search_view.xml
+id:accessibility_custom_action_17:2131296272 reachable from Field int androidx.core.R$id.accessibility_custom_action_17
+id:accessibility_custom_action_19:2131296274 reachable from Field int androidx.core.R$id.accessibility_custom_action_19
+id:accessibility_custom_action_14:2131296269 reachable from Field int androidx.core.R$id.accessibility_custom_action_14
+drawable:abc_cab_background_internal_bg:2131230735 reachable from Field int androidx.appcompat.R$drawable.abc_cab_background_internal_bg
+id:accessibility_custom_action_13:2131296268 reachable from Field int androidx.core.R$id.accessibility_custom_action_13
+drawable:abc_textfield_search_activated_mtrl_alpha:2131230795 reachable from Field int androidx.appcompat.R$drawable.abc_textfield_search_activated_mtrl_alpha
+attr:actionModePopupWindowStyle:2130968600 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:accessibility_custom_action_16:2131296271 reachable from Field int androidx.core.R$id.accessibility_custom_action_16
+id:accessibility_custom_action_15:2131296270 reachable from Field int androidx.core.R$id.accessibility_custom_action_15
+id:accessibility_custom_action_10:2131296265 reachable from Field int androidx.core.R$id.accessibility_custom_action_10
+attr:colorPrimary:2130968671 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+style:RtlOverlay_Widget_AppCompat_SearchView_MagIcon:2131689659 reachable from res/layout/abc_search_view.xml
+id:accessibility_custom_action_12:2131296267 reachable from Field int androidx.core.R$id.accessibility_custom_action_12
+id:accessibility_custom_action_11:2131296266 reachable from Field int androidx.core.R$id.accessibility_custom_action_11
+drawable:abc_ratingbar_material:2131230771 reachable from Field int androidx.appcompat.R$drawable.abc_ratingbar_material
+attr:actionBarPopupTheme:2130968578 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionBarStyle:2130968581 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+style:TextAppearance_AppCompat_Tooltip:2131689690 reachable from res/layout/abc_tooltip.xml
+string:common_google_play_services_unknown_issue:2131623979 reachable from Field int com.google.android.gms.common.R$string.common_google_play_services_unknown_issue
+attr:iconifiedByDefault:2130968737 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+id:accessibility_custom_action_29:2131296285 reachable from Field int androidx.core.R$id.accessibility_custom_action_29
+id:accessibility_custom_action_28:2131296284 reachable from Field int androidx.core.R$id.accessibility_custom_action_28
+attr:windowActionBar:2130968882 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:accessibility_custom_action_25:2131296281 reachable from Field int androidx.core.R$id.accessibility_custom_action_25
+id:accessibility_custom_action_24:2131296280 reachable from Field int androidx.core.R$id.accessibility_custom_action_24
+id:accessibility_custom_action_27:2131296283 reachable from Field int androidx.core.R$id.accessibility_custom_action_27
+drawable:abc_seekbar_tick_mark_material:2131230779 reachable from Field int androidx.appcompat.R$drawable.abc_seekbar_tick_mark_material
+id:accessibility_custom_action_26:2131296282 reachable from Field int androidx.core.R$id.accessibility_custom_action_26
+id:accessibility_custom_action_21:2131296277 reachable from Field int androidx.core.R$id.accessibility_custom_action_21
+id:accessibility_custom_action_20:2131296276 reachable from Field int androidx.core.R$id.accessibility_custom_action_20
+id:accessibility_custom_action_23:2131296279 reachable from Field int androidx.core.R$id.accessibility_custom_action_23
+id:accessibility_custom_action_22:2131296278 reachable from Field int androidx.core.R$id.accessibility_custom_action_22
+attr:suggestionRowLayout:2130968833 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:actionMenuTextAppearance:2130968590 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+dimen:abc_control_padding_material:2131165210 reachable from dimen:abc_button_padding_vertical_material:2131165205
+attr:actionBarTheme:2130968585 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:seekBarStyle:2130968804 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:editTextColor:2130968707 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:view_tree_view_model_store_owner:2131296452 reachable from Field int androidx.lifecycle.viewmodel.R$id.view_tree_view_model_store_owner
+attr:fontFamily:2130968717 reachable from Field int[] androidx.appcompat.R$styleable.TextAppearance
+attr:drawableTopCompat:2130968702 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+drawable:abc_menu_hardkey_panel_mtrl_mult:2131230768 reachable from Field int androidx.appcompat.R$drawable.abc_menu_hardkey_panel_mtrl_mult
+attr:buttonBarButtonStyle:2130968638 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_text_cursor_material:2131230789 reachable from Field int androidx.appcompat.R$drawable.abc_text_cursor_material
+id:accessibility_custom_action_31:2131296288 reachable from Field int androidx.core.R$id.accessibility_custom_action_31
+layout:abc_search_view:2131492889 reachable from Field int androidx.appcompat.R$layout.abc_search_view
+id:accessibility_custom_action_30:2131296287 reachable from Field int androidx.core.R$id.accessibility_custom_action_30
+attr:listMenuViewStyle:2130968755 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:colorButtonNormal:2130968666 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:abc_tooltip_exit:2130771979 reachable from style:Base_Animation_AppCompat_Tooltip:2131689481
+attr:checkboxStyle:2130968655 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_checkbox_to_checked_icon_null_animation:2130771982 reachable from res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+attr:listPreferredItemHeightSmall:2130968759 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:actionModeCloseDrawable:2130968595 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:lineHeight:2130968748 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:drawableLeftCompat:2130968696 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:buttonBarStyle:2130968642 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+interpolator:btn_checkbox_unchecked_mtrl_animation_interpolator_0:2131427330 reachable from res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+attr:controlBackground:2130968683 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+interpolator:btn_checkbox_unchecked_mtrl_animation_interpolator_1:2131427331 reachable from res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+interpolator:btn_radio_to_off_mtrl_animation_interpolator_0:2131427332 reachable from res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+attr:drawableStartCompat:2130968699 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+drawable:abc_star_black_48dp:2131230783 reachable from Field int androidx.appcompat.R$drawable.abc_star_black_48dp
+attr:fontProviderCerts:2130968719 reachable from Field int[] androidx.core.R$styleable.FontFamily
+attr:popupMenuStyle:2130968784 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:dropDownListViewStyle:2130968704 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_vector_test:2131230798 reachable from Field int androidx.appcompat.resources.R$drawable.abc_vector_test
+id:tag_accessibility_pane_title:2131296424 reachable from Field int androidx.core.R$id.tag_accessibility_pane_title
+id:search_badge:2131296396 reachable from res/layout/abc_search_view.xml
+drawable:abc_btn_switch_to_on_mtrl_00001:2131230733 reachable from res/drawable/abc_switch_thumb_material.xml
+attr:listPreferredItemPaddingStart:2130968763 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+dimen:tooltip_vertical_padding:2131165302 reachable from res/layout/abc_tooltip.xml
+dimen:tooltip_horizontal_padding:2131165298 reachable from res/layout/abc_tooltip.xml
+attr:fontProviderAuthority:2130968718 reachable from Field int[] androidx.core.R$styleable.FontFamily
+attr:firstBaselineToTopHeight:2130968715 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+drawable:abc_scrubber_control_to_pressed_mtrl_005:2131230775 reachable from res/drawable/abc_seekbar_thumb_material.xml
+drawable:abc_cab_background_top_mtrl_alpha:2131230737 reachable from Field int androidx.appcompat.R$drawable.abc_cab_background_top_mtrl_alpha
+drawable:abc_textfield_default_mtrl_alpha:2131230794 reachable from Field int androidx.appcompat.R$drawable.abc_textfield_default_mtrl_alpha
+anim:btn_radio_to_off_mtrl_dot_group_animation:2130771986 reachable from res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+drawable:abc_cab_background_top_material:2131230736 reachable from Field int androidx.appcompat.R$drawable.abc_cab_background_top_material
+drawable:abc_btn_radio_material:2131230729 reachable from Field int androidx.appcompat.R$drawable.abc_btn_radio_material
+attr:autoSizeMaxTextSize:2130968626 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:textColorSearchUrl:2130968849 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_ratingbar_small_material:2131230772 reachable from Field int androidx.appcompat.R$drawable.abc_ratingbar_small_material
+color:abc_tint_spinner:2131099671 reachable from Field int androidx.appcompat.R$color.abc_tint_spinner
+id:special_effects_controller_view_tag:2131296412 reachable from Field int androidx.fragment.R$id.special_effects_controller_view_tag
+id:tag_transition_group:2131296430 reachable from Field int androidx.core.R$id.tag_transition_group
+string:common_open_on_phone:2131623986 reachable from Field int com.google.android.gms.base.R$string.common_open_on_phone
+attr:alertDialogTheme:2130968617 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_ic_menu_selectall_mtrl_alpha:2131230750 reachable from Field int androidx.appcompat.R$drawable.abc_ic_menu_selectall_mtrl_alpha
+dimen:tooltip_precise_anchor_threshold:2131165301 reachable from Field int androidx.appcompat.R$dimen.tooltip_precise_anchor_threshold
+drawable:abc_scrubber_control_to_pressed_mtrl_000:2131230774 reachable from res/drawable/abc_seekbar_thumb_material.xml
+attr:dividerHorizontal:2130968691 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+id:off:2131296382 reachable from res/drawable/abc_btn_radio_material_anim.xml
+style:TextAppearance_AppCompat:2131689662 reachable from style:TextAppearance_AppCompat_Tooltip:2131689690
+attr:actionBarItemBackground:2130968577 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:homeAsUpIndicator:2130968732 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_checkbox_to_checked_box_outer_merged_animation:2130771981 reachable from res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+attr:colorBackgroundFloating:2130968665 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:backgroundTintMode:2130968635 reachable from Field int[] androidx.appcompat.R$styleable.ViewBackgroundHelper
+attr:actionBarWidgetTheme:2130968586 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:autoCompleteTextViewStyle:2130968625 reachable from Field int androidx.appcompat.R$attr.autoCompleteTextViewStyle
+anim:btn_radio_to_off_mtrl_ring_outer_animation:2130771987 reachable from res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+string:common_google_play_services_wear_update_text:2131623985 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_wear_update_text
+attr:lStar:2130968745 reachable from Field int[] androidx.core.R$styleable.ColorStateListItem
+style:RtlOverlay_Widget_AppCompat_Search_DropDown_Query:2131689657 reachable from res/layout/abc_search_dropdown_item_icons_2line.xml
+attr:actionModeFindDrawable:2130968598 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+color:abc_tint_switch_track:2131099672 reachable from Field int androidx.appcompat.R$color.abc_tint_switch_track
+dimen:abc_button_padding_horizontal_material:2131165204 reachable from res/drawable/abc_btn_default_mtrl_shape.xml
+dimen:abc_dropdownitem_icon_width:2131165225 reachable from res/layout/abc_search_view.xml
+attr:alpha:2130968619 reachable from Field int[] androidx.core.R$styleable.ColorStateListItem
+attr:listChoiceIndicatorSingleAnimated:2130968751 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_seekbar_track_material:2131230780 reachable from Field int androidx.appcompat.R$drawable.abc_seekbar_track_material
+attr:fontProviderFetchStrategy:2130968720 reachable from Field int[] androidx.core.R$styleable.FontFamily
+drawable:abc_scrubber_control_off_mtrl_alpha:2131230773 reachable from res/drawable/abc_seekbar_thumb_material.xml
+attr:toolbarStyle:2130968872 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+drawable:abc_btn_borderless_material:2131230722 reachable from Field int androidx.appcompat.R$drawable.abc_btn_borderless_material
+attr:listPreferredItemPaddingEnd:2130968760 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+anim:btn_checkbox_to_unchecked_box_inner_merged_animation:2130771983 reachable from res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+animator:fragment_fade_enter:2130837506 reachable from Field int androidx.fragment.R$animator.fragment_fade_enter
+attr:searchHintIcon:2130968799 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:popupWindowStyle:2130968786 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+interpolator:btn_checkbox_checked_mtrl_animation_interpolator_0:2131427328 reachable from res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+interpolator:btn_checkbox_checked_mtrl_animation_interpolator_1:2131427329 reachable from res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+attr:windowFixedHeightMinor:2130968886 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:alertDialogStyle:2130968616 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:windowFixedWidthMajor:2130968887 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:dialogCornerRadius:2130968686 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:windowActionBarOverlay:2130968883 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:emojiCompatEnabled:2130968710 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+animator:fragment_open_enter:2130837508 reachable from Field int androidx.fragment.R$animator.fragment_open_enter
+attr:drawableBottomCompat:2130968694 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:actionModeSelectAllDrawable:2130968601 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:drawableRightCompat:2130968697 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+attr:dialogTheme:2130968688 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:fontStyle:2130968725 reachable from Field int[] androidx.core.R$styleable.FontFamilyFont
+anim:fragment_fast_out_extra_slow_in:2130771992 reachable from res/animator/fragment_open_enter.xml
+attr:autoSizeStepGranularity:2130968629 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTextView
+id:on:2131296383 reachable from res/drawable/abc_btn_radio_material_anim.xml
+drawable:abc_btn_check_to_on_mtrl_015:2131230726 reachable from res/drawable/abc_btn_check_material.xml
+attr:queryBackground:2130968791 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+dimen:tooltip_y_offset_touch:2131165304 reachable from Field int androidx.appcompat.R$dimen.tooltip_y_offset_touch
+string:androidx_startup:2131623963 reachable from Field int androidx.startup.R$string.androidx_startup
+attr:actionOverflowButtonStyle:2130968607 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:ratingBarStyle:2130968795 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:windowMinWidthMinor:2130968890 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+attr:backgroundTint:2130968634 reachable from Field int[] androidx.appcompat.R$styleable.ViewBackgroundHelper
+drawable:abc_ic_menu_cut_mtrl_alpha:2131230747 reachable from Field int androidx.appcompat.R$drawable.abc_ic_menu_cut_mtrl_alpha
+interpolator:btn_radio_to_on_mtrl_animation_interpolator_0:2131427333 reachable from res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+drawable:abc_btn_check_to_on_mtrl_000:2131230725 reachable from res/drawable/abc_btn_check_material.xml
+dimen:abc_dropdownitem_text_padding_left:2131165226 reachable from res/layout/abc_search_view.xml
+drawable:launch_background:2131230836 reachable from style:LaunchTheme:2131689633
+dimen:abc_star_big:2131165243 reachable from Field int androidx.appcompat.R$dimen.abc_star_big
+attr:actionBarSize:2130968579 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme
+string:common_google_play_services_install_title:2131623976 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_install_title
+string:common_google_play_services_notification_channel_name:2131623977 reachable from Field int com.google.android.gms.base.R$string.common_google_play_services_notification_channel_name
+string:abc_searchview_description_submit:2131623958 reachable from res/layout/abc_search_view.xml
+drawable:btn_checkbox_checked_to_unchecked_mtrl_animation:2131230800 reachable from res/drawable/abc_btn_check_material_anim.xml
+dimen:tooltip_precise_anchor_extra_offset:2131165300 reachable from Field int androidx.appcompat.R$dimen.tooltip_precise_anchor_extra_offset
+id:view_tree_saved_state_registry_owner:2131296451 reachable from Field int androidx.savedstate.R$id.view_tree_saved_state_registry_owner
+attr:defaultQueryHint:2130968685 reachable from Field int[] androidx.appcompat.R$styleable.SearchView
+attr:colorControlActivated:2130968667 reachable from Field int[] androidx.appcompat.R$styleable.AppCompatTheme

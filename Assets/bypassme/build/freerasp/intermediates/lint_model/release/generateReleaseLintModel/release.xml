@@ -1,0 +1,32 @@
+<variant
+    name="release"
+    package="com.aheaditec.freerasp"
+    minSdkVersion="23"
+    targetSdkVersion="23"
+    mergedManifest="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/default_proguard_files/global/proguard-android.txt-8.13.1"
+    consumerProguardFiles="consumer-rules.pro"
+    partialResultsDir="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/tmp/kotlin-classes/release:/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.aheaditec.freerasp"
+      generatedSourceFolders="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/home/blackkader/All/CyberCamp/Assets/bypassme/build/freerasp/generated/res/resValues/release"
+      desugaredMethodsFiles="/home/blackkader/.gradle/caches/8.14/transforms/b57cf102709a1af50c1f21a95ce20a1f/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

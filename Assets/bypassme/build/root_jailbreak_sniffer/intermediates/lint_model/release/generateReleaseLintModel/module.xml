@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android"
+    name=":root_jailbreak_sniffer"
+    type="LIBRARY"
+    maven="com.emrys.rjsniffer.rjsniffer:root_jailbreak_sniffer:1.0"
+    agpVersion="8.13.1"
+    buildFolder="/home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer"
+    bootClassPath="/home/blackkader/Android/Sdk/platforms/android-34/android.jar:/home/blackkader/Android/Sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

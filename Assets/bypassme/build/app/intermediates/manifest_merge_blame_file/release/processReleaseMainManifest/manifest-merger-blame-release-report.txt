@@ -1,0 +1,248 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.securinets.bypassme"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="36" />
+10    <!--
+11         Required to query activities that can process text, see:
+12         https://developer.android.com/training/package-visibility and
+13         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+14
+15         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+16    -->
+17    <queries>
+17-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:39:5-44:15
+18        <intent>
+18-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:40:9-43:18
+19            <action android:name="android.intent.action.PROCESS_TEXT" />
+19-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:41:13-72
+19-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:41:21-70
+20
+21            <data android:mimeType="text/plain" />
+21-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:42:13-50
+21-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:42:19-48
+22        </intent>
+23
+24        <package android:name="com.huawei.hwid" />
+24-->[com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:11:9-51
+24-->[com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:11:18-48
+25
+26        <intent>
+26-->[com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:13:9-15:18
+27            <action android:name="android.intent.action.MAIN" />
+27-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:24:17-68
+27-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:24:25-66
+28        </intent>
+29    </queries>
+30
+31    <uses-permission android:name="android.permission.INTERNET" />
+31-->[:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-67
+31-->[:jailbreak_root_detection] /home/blackkader/All/CyberCamp/Assets/bypassme/build/jailbreak_root_detection/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:22-64
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+32-->[com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:8:5-79
+32-->[com.aheaditec.talsec.security:TalsecSecurity-Community-Flutter:17.0.0] /home/blackkader/.gradle/caches/8.14/transforms/c429d66562134a91c4166a5ec7479487/transformed/TalsecSecurity-Community-Flutter-17.0.0/AndroidManifest.xml:8:22-76
+33    <uses-permission android:name="android.permission.USE_BIOMETRIC" /> <!-- suppress DeprecatedClassUsageInspection -->
+33-->[androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+33-->[androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:24:22-69
+34    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+34-->[androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+34-->[androidx.biometric:biometric:1.1.0] /home/blackkader/.gradle/caches/8.14/transforms/ab73f44566565bd0ed7e54616334458c/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+35    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+35-->[com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:9:5-98
+35-->[com.github.fingerprintjs:fingerprint-android:2.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c6146509962c89703635cbbe102f524c/transformed/fingerprint-android-2.2.0/AndroidManifest.xml:9:22-95
+36
+37    <permission
+37-->[androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+38        android:name="io.securinets.bypassme.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+38-->[androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+39        android:protectionLevel="signature" />
+39-->[androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+40
+41    <uses-permission android:name="io.securinets.bypassme.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+41-->[androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+41-->[androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+42    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Detect boot to invalidate TrueTime -->
+42-->[com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:12:5-76
+42-->[com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:12:22-73
+43    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+43-->[com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:15:5-81
+43-->[com.github.instacart:truetime-android:4.0.0.alpha] /home/blackkader/.gradle/caches/8.14/transforms/de6724263f810c096fbe3406df66db2d/transformed/truetime-android-4.0.0.alpha/AndroidManifest.xml:15:22-78
+44
+45    <application
+46        android:name="android.app.Application"
+46-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:4:9-42
+47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+47-->[androidx.core:core:1.13.1] /home/blackkader/.gradle/caches/8.14/transforms/c6084a3565a35fe75bf53a54a41df9ae/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+48        android:extractNativeLibs="false"
+49        android:icon="@mipmap/ic_launcher"
+49-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:5:9-43
+50        android:label="bypassme"
+50-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:3:9-33
+51        android:zygotePreloadName="com.emrys.rjsniffer.rjsniffer.AppZygotePreload" >
+51-->[:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:18-92
+52        <activity
+52-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:6:9-27:20
+53            android:name="io.securinets.bypassme.MainActivity"
+53-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:7:13-41
+54            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+54-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:12:13-163
+55            android:exported="true"
+55-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:8:13-36
+56            android:hardwareAccelerated="true"
+56-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:13:13-47
+57            android:launchMode="singleTop"
+57-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:9:13-43
+58            android:taskAffinity=""
+58-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:10:13-36
+59            android:theme="@style/LaunchTheme"
+59-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:11:13-47
+60            android:windowSoftInputMode="adjustResize" >
+60-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:14:13-55
+61
+62            <!--
+63                 Specifies an Android theme to apply to this Activity as soon as
+64                 the Android process has started. This theme is visible to the user
+65                 while the Flutter UI initializes. After that, this theme continues
+66                 to determine the Window background behind the Flutter UI.
+67            -->
+68            <meta-data
+68-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:19:13-22:17
+69                android:name="io.flutter.embedding.android.NormalTheme"
+69-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:20:15-70
+70                android:resource="@style/NormalTheme" />
+70-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:21:15-52
+71
+72            <intent-filter>
+72-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:23:13-26:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:24:17-68
+73-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:24:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:25:17-76
+75-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:25:27-74
+76            </intent-filter>
+77        </activity>
+78        <!--
+79             Don't delete the meta-data below.
+80             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+81        -->
+82        <meta-data
+82-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:30:9-32:33
+83            android:name="flutterEmbedding"
+83-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:31:13-44
+84            android:value="2" />
+84-->/home/blackkader/All/CyberCamp/Assets/bypassme/android/app/src/main/AndroidManifest.xml:32:13-30
+85
+86        <service
+86-->[:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:9-16:43
+87            android:name="com.emrys.rjsniffer.rjsniffer.Sniffer"
+87-->[:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:13-65
+88            android:exported="false"
+88-->[:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:13-37
+89            android:isolatedProcess="true"
+89-->[:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:13-43
+90            android:useAppZygote="true" />
+90-->[:root_jailbreak_sniffer] /home/blackkader/All/CyberCamp/Assets/bypassme/build/root_jailbreak_sniffer/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-40
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:18.5.0] /home/blackkader/.gradle/caches/8.14/transforms/fe150b9521a353fd371a2e071453c89e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+96
+97        <meta-data
+97-->[com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+98            android:name="com.google.android.gms.version"
+98-->[com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+99            android:value="@integer/google_play_services_version" />
+99-->[com.google.android.gms:play-services-basement:18.4.0] /home/blackkader/.gradle/caches/8.14/transforms/26198f489616f62daa27bf9eaa8bdf7a/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+100
+101        <uses-library
+101-->[androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:23:9-25:40
+102            android:name="androidx.window.extensions"
+102-->[androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:24:13-54
+103            android:required="false" />
+103-->[androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:25:13-37
+104        <uses-library
+104-->[androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:26:9-28:40
+105            android:name="androidx.window.sidecar"
+105-->[androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:27:13-51
+106            android:required="false" />
+106-->[androidx.window:window:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/c9af4ea52500d9a3b507a83fc4f0f4ed/transformed/window-1.2.0/AndroidManifest.xml:28:13-37
+107
+108        <provider
+108-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+109            android:name="androidx.startup.InitializationProvider"
+109-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+110            android:authorities="io.securinets.bypassme.androidx-startup"
+110-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+111            android:exported="false" >
+111-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+112            <meta-data
+112-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+113                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+113-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+114                android:value="androidx.startup" />
+114-->[androidx.emoji2:emoji2:1.2.0] /home/blackkader/.gradle/caches/8.14/transforms/e3c72a38ad5701c47cfad738c9ccc123/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+115            <meta-data
+115-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+116                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+116-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+117                android:value="androidx.startup" />
+117-->[androidx.lifecycle:lifecycle-process:2.7.0] /home/blackkader/.gradle/caches/8.14/transforms/554920df6a856be0e1dfb9cab88aa3c9/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+118            <meta-data
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+119                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+119-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+120                android:value="androidx.startup" />
+120-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+121        </provider>
+122
+123        <receiver
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+124            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+125            android:directBootAware="false"
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+126            android:enabled="true"
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+127            android:exported="true"
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+128            android:permission="android.permission.DUMP" >
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+129            <intent-filter>
+129-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+130                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+131            </intent-filter>
+132            <intent-filter>
+132-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+133                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+134            </intent-filter>
+135            <intent-filter>
+135-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+136                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+136-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+136-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+137            </intent-filter>
+138            <intent-filter>
+138-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+139                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+139-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+139-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/blackkader/.gradle/caches/8.14/transforms/46518f7ab64dc99a0f09c6a63c7af476/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+140            </intent-filter>
+141        </receiver>
+142    </application>
+143
+144</manifest>

@@ -1,0 +1,32 @@
+<variant
+    name="release"
+    package="io.flutter.plugins.flutter_plugin_android_lifecycle"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    mergedManifest="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/default_proguard_files/global/proguard-android.txt-8.13.1"
+    consumerProguardFiles="proguard.txt"
+    partialResultsDir="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="io.flutter.plugins.flutter_plugin_android_lifecycle"
+      generatedSourceFolders="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/home/blackkader/All/CyberCamp/Assets/bypassme/build/flutter_plugin_android_lifecycle/generated/res/resValues/release"
+      desugaredMethodsFiles="/home/blackkader/.gradle/caches/8.14/transforms/a566b113f33d7a4385f75bbb0c8dd8ae/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

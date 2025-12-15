@@ -1,0 +1,4 @@
+/home/blackkader/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/blackkader/.pub-cache/hosted/pub.dev/root_jailbreak_sniffer-1.1.4/android/.cxx/RelWithDebInfo/q1a1f1t1/x86 \
+  rjsniffer-lib
